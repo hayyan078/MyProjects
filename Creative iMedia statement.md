@@ -1,9 +1,9 @@
 # Creative iMedia Statement
 - These are some projects that I did whilst I was at secondary school.
 - I did a range of things including creating a mini comic, website, and a game cover for a magazine.
-- I prepared for all these by researching and analysing different types of the thing I was producing along with client briefs (outlining my objectives),
+- I prepared for all these by following the Learning Objectives. This included working with: client briefs (outlining my objectives),
 mood boards (placing my ideas and images associated with the topic), visualisation diagrams (rough sketch of final product),
-Gantt Charts (Excel graph on managing my time whilst I complete the project as I had a deadline to complete these),
+Gantt Charts (Excel graph on managing my time whilst I complete the project as I had a deadline to complete these; see links below for more info),
 evidences and screenshots of my work and how I put it all together. 
 - I had to follow strict instructions from the client (listed in Client Briefs) but with some freedom for my own preferences. 
 - R082, R084, and R087 are just the project names... the LO's are the Learning Objectives.

@@ -1,4 +1,4 @@
-# My Statement
+# Creative iMedia Statement
 - These are some projects that I did whilst I was at secondary school.
 - I did a range of things including creating a mini comic, website, and a game cover for a magazine.
 - I prepared for all these by researching and analysing different types of the thing I was producing along with client briefs (outlining my objectives),
